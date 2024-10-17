@@ -1,0 +1,7 @@
+C:\Users\erman\OneDrive\Documents\Sişarp\MY_02_Variables\MY_02_Variables\bin\Debug\MY_02_Variables.exe.config
+C:\Users\erman\OneDrive\Documents\Sişarp\MY_02_Variables\MY_02_Variables\bin\Debug\MY_02_Variables.exe
+C:\Users\erman\OneDrive\Documents\Sişarp\MY_02_Variables\MY_02_Variables\bin\Debug\MY_02_Variables.pdb
+C:\Users\erman\OneDrive\Documents\Sişarp\MY_02_Variables\MY_02_Variables\obj\Debug\MY_02_Variables.csproj.AssemblyReference.cache
+C:\Users\erman\OneDrive\Documents\Sişarp\MY_02_Variables\MY_02_Variables\obj\Debug\MY_02_Variables.csproj.CoreCompileInputs.cache
+C:\Users\erman\OneDrive\Documents\Sişarp\MY_02_Variables\MY_02_Variables\obj\Debug\MY_02_Variables.exe
+C:\Users\erman\OneDrive\Documents\Sişarp\MY_02_Variables\MY_02_Variables\obj\Debug\MY_02_Variables.pdb

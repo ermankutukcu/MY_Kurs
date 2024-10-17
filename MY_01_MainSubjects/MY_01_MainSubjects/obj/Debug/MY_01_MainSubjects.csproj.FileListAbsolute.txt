@@ -1,0 +1,7 @@
+C:\Users\erman\OneDrive\Documents\Sişarp\MY_01_MainSubjects\MY_01_MainSubjects\bin\Debug\MY_01_MainSubjects.exe.config
+C:\Users\erman\OneDrive\Documents\Sişarp\MY_01_MainSubjects\MY_01_MainSubjects\bin\Debug\MY_01_MainSubjects.exe
+C:\Users\erman\OneDrive\Documents\Sişarp\MY_01_MainSubjects\MY_01_MainSubjects\bin\Debug\MY_01_MainSubjects.pdb
+C:\Users\erman\OneDrive\Documents\Sişarp\MY_01_MainSubjects\MY_01_MainSubjects\obj\Debug\MY_01_MainSubjects.csproj.AssemblyReference.cache
+C:\Users\erman\OneDrive\Documents\Sişarp\MY_01_MainSubjects\MY_01_MainSubjects\obj\Debug\MY_01_MainSubjects.csproj.CoreCompileInputs.cache
+C:\Users\erman\OneDrive\Documents\Sişarp\MY_01_MainSubjects\MY_01_MainSubjects\obj\Debug\MY_01_MainSubjects.exe
+C:\Users\erman\OneDrive\Documents\Sişarp\MY_01_MainSubjects\MY_01_MainSubjects\obj\Debug\MY_01_MainSubjects.pdb
